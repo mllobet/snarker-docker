@@ -1,0 +1,3 @@
+[submodule "df-snarker"]
+	path = df-snarker
+	url = git@github.com:mllobet/df-snarker.git
