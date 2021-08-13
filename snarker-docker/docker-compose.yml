@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+    snarker:
+        build: ./df-snarker
+        expose:
+            - "8082:8082"
